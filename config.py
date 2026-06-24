@@ -1,7 +1,7 @@
 import os
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "ВСТАВЬ_ТОКЕН_СЮДА")
-ADMIN_IDS = [123456789]  # Твой Telegram ID
+BOT_TOKEN = os.environ.get("8521185674:AAHZ4vVNeri7i6ThwNECyL1ufmMC24AF28w")
+ADMIN_IDS = [1979390272]  # Твой Telegram ID
 
 WAR_DURATION_DAYS = 30
 STARTING_AL = 100
